@@ -1,0 +1,2 @@
+rootProject.name='Operatorler'
+include ':app'
